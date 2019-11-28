@@ -4,7 +4,9 @@ We are supposed to propose a applied public health solution through call data re
 
 
 Our objectives are :
+
 1.Mapping human movement through call data record
+
 2.Mapping malaria risk through incidence density rates of Senegal region
 
 
