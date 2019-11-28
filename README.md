@@ -1,6 +1,10 @@
 # Web_based_data_project
 
-Mapping human movement and mapping malaria risk through incidence density rates of Senegal region
+We are supposed to propose a applicable public health solution through call data records from D4D challenge (https://datacollaboratives.org/cases/orange-telecom-data-for-development-challenge-d4d.html)
 
-Intended for sharing the codes of our analysis
+
+Our objectives are :
+1.Mapping human movement through call data record
+2.Mapping malaria risk through incidence density rates of Senegal region
+
 
