@@ -5,8 +5,10 @@ We are supposed to propose a applied public health solution through call data re
 
 Our objectives are :
 
-1.Mapping human movement through call data record
+1.To find the spatial association between the population density and distance of Senegal regions over the years;
 
-2.Mapping malaria risk through incidence density rates of Senegal region
+2.To find the spatial temporal variation in people movement over the different quarters of the year 2013-14;
+
+3.To create a trajectory model showing human movement across the Senegal region through call detail record data (CDR) using previously established methodologies.
 
 
